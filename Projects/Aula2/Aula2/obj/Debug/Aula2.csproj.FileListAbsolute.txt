@@ -1,0 +1,7 @@
+C:\Users\gutof\Desktop\Programação Científica\Programacao-Cientifica\Projects\Aula2\Aula2\obj\Debug\Aula2.csprojAssemblyReference.cache
+C:\Users\gutof\Desktop\Programação Científica\Programacao-Cientifica\Projects\Aula2\Aula2\obj\Debug\Aula2.csproj.CoreCompileInputs.cache
+C:\Users\gutof\Desktop\Programação Científica\Programacao-Cientifica\Projects\Aula2\Aula2\bin\Debug\Aula2.exe.config
+C:\Users\gutof\Desktop\Programação Científica\Programacao-Cientifica\Projects\Aula2\Aula2\bin\Debug\Aula2.exe
+C:\Users\gutof\Desktop\Programação Científica\Programacao-Cientifica\Projects\Aula2\Aula2\bin\Debug\Aula2.pdb
+C:\Users\gutof\Desktop\Programação Científica\Programacao-Cientifica\Projects\Aula2\Aula2\obj\Debug\Aula2.exe
+C:\Users\gutof\Desktop\Programação Científica\Programacao-Cientifica\Projects\Aula2\Aula2\obj\Debug\Aula2.pdb
