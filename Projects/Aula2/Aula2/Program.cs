@@ -151,7 +151,7 @@ public class Queue
         }
     }
 
-    public void clear()
+    public void clear()                                                  //anula todo mundo, assim a fila esvazia de novo
     {
         last = null;
         first = null;
