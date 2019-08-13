@@ -1,0 +1,14 @@
+C:\Users\gutof\Desktop\Mestrado\Programacao-Cientifica-master\Projects\Aula4\Aula4Main\Aula4\obj\Debug\Aula4.csprojAssemblyReference.cache
+C:\Users\gutof\Desktop\Mestrado\Programacao-Cientifica-master\Projects\Aula4\Aula4Main\Aula4\obj\Debug\Aula4.csproj.CoreCompileInputs.cache
+C:\Users\gutof\Desktop\Mestrado\Programacao-Cientifica-master\Projects\Aula4\Aula4Main\Aula4\bin\Debug\Aula4.exe.config
+C:\Users\gutof\Desktop\Mestrado\Programacao-Cientifica-master\Projects\Aula4\Aula4Main\Aula4\bin\Debug\Aula4.exe
+C:\Users\gutof\Desktop\Mestrado\Programacao-Cientifica-master\Projects\Aula4\Aula4Main\Aula4\bin\Debug\Aula4.pdb
+C:\Users\gutof\Desktop\Mestrado\Programacao-Cientifica-master\Projects\Aula4\Aula4Main\Aula4\obj\Debug\Aula4.exe
+C:\Users\gutof\Desktop\Mestrado\Programacao-Cientifica-master\Projects\Aula4\Aula4Main\Aula4\obj\Debug\Aula4.pdb
+C:\Users\gutof\Desktop\Mestrado\Bianchi\Programacao-Cientifica-master\Projects\Aula4\Aula4Main\Aula4\bin\Debug\Aula4.exe.config
+C:\Users\gutof\Desktop\Mestrado\Bianchi\Programacao-Cientifica-master\Projects\Aula4\Aula4Main\Aula4\bin\Debug\Aula4.exe
+C:\Users\gutof\Desktop\Mestrado\Bianchi\Programacao-Cientifica-master\Projects\Aula4\Aula4Main\Aula4\bin\Debug\Aula4.pdb
+C:\Users\gutof\Desktop\Mestrado\Bianchi\Programacao-Cientifica-master\Projects\Aula4\Aula4Main\Aula4\obj\Debug\Aula4.csprojAssemblyReference.cache
+C:\Users\gutof\Desktop\Mestrado\Bianchi\Programacao-Cientifica-master\Projects\Aula4\Aula4Main\Aula4\obj\Debug\Aula4.csproj.CoreCompileInputs.cache
+C:\Users\gutof\Desktop\Mestrado\Bianchi\Programacao-Cientifica-master\Projects\Aula4\Aula4Main\Aula4\obj\Debug\Aula4.exe
+C:\Users\gutof\Desktop\Mestrado\Bianchi\Programacao-Cientifica-master\Projects\Aula4\Aula4Main\Aula4\obj\Debug\Aula4.pdb
