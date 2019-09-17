@@ -1,0 +1,7 @@
+C:\Users\gutof\Desktop\Mestrado\Bianchi\Programacao-Cientifica-master\Projects\Aula8\Aula8\Aula8\bin\Debug\Aula8.exe.config
+C:\Users\gutof\Desktop\Mestrado\Bianchi\Programacao-Cientifica-master\Projects\Aula8\Aula8\Aula8\bin\Debug\Aula8.exe
+C:\Users\gutof\Desktop\Mestrado\Bianchi\Programacao-Cientifica-master\Projects\Aula8\Aula8\Aula8\bin\Debug\Aula8.pdb
+C:\Users\gutof\Desktop\Mestrado\Bianchi\Programacao-Cientifica-master\Projects\Aula8\Aula8\Aula8\obj\Debug\Aula8.csprojAssemblyReference.cache
+C:\Users\gutof\Desktop\Mestrado\Bianchi\Programacao-Cientifica-master\Projects\Aula8\Aula8\Aula8\obj\Debug\Aula8.csproj.CoreCompileInputs.cache
+C:\Users\gutof\Desktop\Mestrado\Bianchi\Programacao-Cientifica-master\Projects\Aula8\Aula8\Aula8\obj\Debug\Aula8.exe
+C:\Users\gutof\Desktop\Mestrado\Bianchi\Programacao-Cientifica-master\Projects\Aula8\Aula8\Aula8\obj\Debug\Aula8.pdb
