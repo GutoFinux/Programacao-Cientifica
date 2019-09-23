@@ -11,3 +11,5 @@ Executável aula 6: /Projects/Aula6/Aula6/obj/Debug/Aula6.exe
 Executável aula 7: /Projects/Aula7/Aula7/obj/Debug/Aula7.exe
 
 Executável aula 8: /Projects/Aula8/Aula8/obj/Debug/Aula8.exe
+
+Executável aula 9: /Projects/Aula9/Aula9/obj/Debug/Aula9.exe
